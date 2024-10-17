@@ -1,3 +1,4 @@
 istirahat setiap 30 menit sekali
 istirahat hanya 5 menit
 dilakukan setelah maghrib
+belajar javascript
